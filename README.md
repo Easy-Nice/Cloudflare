@@ -29,3 +29,18 @@ Open index.html and start to use the website
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## SUPPORT ME
+
+You can always Support me by inviting one of my **own Discord Bots**
+
+[![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](dc.musicium.eu)
+[![Milrato Muslti Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://bit.ly/Milrato)
+
+[| fork my repository  |](https://github.com/user/repository/fork)
+[watch this repo  |](https://github.com/user/repository/subscription)
+[create issue |](https://github.com/user/repository/issues/new)
+
+*Both bots are still in Development, and will always be in development, this means always uptodate and always online and always improving!*
+
+[![](https://cdn.discordapp.com/emojis/770098066552258611.png)](https://cdn.discordapp.com/emojis/770098066552258611.png) 
