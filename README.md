@@ -34,8 +34,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 You can always Support me by inviting one of my **own Discord Bots**
 
-[![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](dc.musicium.eu)
+[![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://dc.musicium.eu)
 [![Milrato Muslti Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://bit.ly/Milrato)
+[![24/7 Radio Bot](https://cdn.discordapp.com/avatars/758796384689192981/689d6645f8035a51481c3eccc9c46fb9.webp)](https://24.musicium.eu)
 
 [| fork my repository  |](https://github.com/user/repository/fork)
 [watch this repo  |](https://github.com/user/repository/subscription)
@@ -43,4 +44,3 @@ You can always Support me by inviting one of my **own Discord Bots**
 
 *Both bots are still in Development, and will always be in development, this means always uptodate and always online and always improving!*
 
-[![](https://cdn.discordapp.com/emojis/770098066552258611.png)](https://cdn.discordapp.com/emojis/770098066552258611.png) 
